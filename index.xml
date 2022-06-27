@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://Zimzalabim0210.github.io.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 12:12:31 +0800</lastBuildDate><atom:link href="https://Zimzalabim0210.github.io.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://Zimzalabim0210.github.io.github.io/post/blog/</link>
+      <pubDate>Mon, 27 Jun 2022 12:12:31 +0800</pubDate>
+      
+      <guid>https://Zimzalabim0210.github.io.github.io/post/blog/</guid>
+      <description>遇到的问题： 1.git配置发生问题，未配置名称和邮箱 2.主题下载不完善，重新克隆后完善了</description>
+    </item>
+    
+  </channel>
+</rss>
